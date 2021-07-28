@@ -1,0 +1,15 @@
+Apple Tree and Parents     |stories/images/Apple Tree and Parents.png     |Douglas Adams         |Kids      |8+ |3.4
+Reward for Bravery         |stories/images/Reward for Bravery.png         |Jennifer Egan         |Suspense  |10+|4.0
+The cunning Hercules       |stories/images/The cunning Hercules.png       |Jonathan Franzen      |Mythology |14+|4.8
+An Old Lady in The Cruise  |stories/images/An Old Lady in The Cruise.png  |Gabriel García Márquez|Drama     |14+|3.9
+Building Bridges           |stories/images/Building Bridges.png           |Joseph Heller         |Drama     |10+|2.8
+Budhha and Angry Many      |stories/images/Budhha and Angry Many.png      |Sekhar Bandyopadhyay  |Philosophy|12+|4.1
+Brother Gopal              |stories/images/Brother Gopal.png              |Srinath Raghavan      |Mythology |14+|4.0
+What If                    |stories/images/What If.png                    |Jaynil Vaidya         |Fiction   |8+ |5.0
+The Brahmin and His Enemies|stories/images/The Brahmin and His Enemies.png|Kiran Desai           |Fiction   |10+|3.4
+The Golden Swan            |stories/images/The Golden Swan.png            |Kazuo Ishiguro        |Fiction   |12+|3.7
+The Naughty Lamb           |stories/images/The Naughty Lamb.png           |Nick Hornby           |Kids      |10+|2.6
+Making of a Lion           |stories/images/Making of a Lion.png           |George Orwell         |Fiction   |12+|3.6
+Her Dream Bicycle          |stories/images/Her Dream Bicycle.png          |Philip Roth           |Drama     |14+|4.4
+Chain of Love              |stories/images/Chain of Love.png              |Richard Yates         |Romance   |16+|3.7
+The Stubborn Hunter        |stories/images/The Stubborn Hunter.png        |Audrey Niffenegger    |Kids      |10+|3.5
