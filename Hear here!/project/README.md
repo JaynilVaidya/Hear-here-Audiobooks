@@ -1,13 +1,7 @@
-Hear here!
-
-!!THE PHOTOS OF THE RUNNING PROJECT IS PLACED IN THE 'running_project.pdf' IN THE ZIP FILE.PLEASE REFER TO THAT!!	
+Hear here!	
 
 What is Hear here?
-It is an app for audiobooks.
-Having trouble sleeping? Cant find time to read your kids bedtime stories? Like stories but think reading is too lame for you? Wanna read books but are too busy and dont have time to stay static for an extended period of time? Wanna Hear books?
-5 PROBLEMS ONE SOLUTION : Hear here!
-
-Now that you know 'what it is' lets walk you through 'how it is what it is':-
+It is an module for audiobooks.
 
 DESCRIPTION:-
 
@@ -16,6 +10,7 @@ The base of this project is  text to speech conversion. We have a nice collectio
 We have used tkinter to create our ravishing user interface to present the users with the best possible service.
 
 PREREQUISITES:-
+
 Before you can run the project, you will have to install a few things:-
 open command prompt (Win key + r ,enter cmd,ENTER  or https://www.ionos.com/digitalguide/server/tools/open-command-prompt/)
 1.pyttsx3
