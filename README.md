@@ -1,15 +1,13 @@
 # Hear-here-Audiobooks
 
 Hear here!	
-
-What is Hear here?
-It is an module for audiobooks.
+A text-to-speech and audiobooks management module.
 
 DESCRIPTION:-
 
-The base of this project is  text to speech conversion. We have a nice collection of mini-stories (ALL IN TEXT FORMAT!!) and we use the pyttsx3 library to convert those text files to audiofiles and make it available to the users.
+The base of this project is  text-to-speech conversion. I have a nice collection of mini text-stories and I use the pyttsx3 library to convert those text files to audiofiles and make it available to the users.
 
-We have used tkinter to create our ravishing user interface to present the users with the best possible service.
+I have used tkinter to create our ravishing user interface to present the users with the best possible service.
 
 PREREQUISITES:-
 
@@ -68,10 +66,10 @@ The signup page requires the new user a number of details to sign them in which 
 
 Now the home page, it consist of a top navigation bar which provides you the ability to navigate through 3 different pages: home,search and profile.
 
-Fasten your seatbelt because here comes the good part: when you switch between these 3 pages the window doesnt destroy and create another one for the other page. IT JUST SWITCHES!! well this was done with the object oriented programming part of python where we destroyed only a certain number of not-required child frames and passed the other frames as parameters and used them as a base file and hence, there was no need to destroy the whole page( In lamen terms,using a notebook page as a metaphor we are using the same page and heading but everytime you switch a page we erase the contents of that page and rewrite the appropriate content).
+Fasten your seatbelt because here comes the good part: when you switch between these 3 pages the window doesnt destroy and create another one for the other page. IT JUST SWITCHES!! well this was done with the object oriented programming part of python where I destroyed only a certain number of not-required child frames and passed the other frames as parameters and used them as a base file and hence, there was no need to destroy the whole page( In lamen terms,using a notebook page as a metaphor I am using the same page and heading but everytime you switch a page I erase the contents of that page and rewrite the appropriate content).
 
 Home AND Search Page:-
-The home page offers you the top 5 books that we picked for you (PS: They are just 5 randomly chosen books)(numpy randomchoice is used to directly pick random lines from the txt file).And the search page offers you the whole collection of books.
+The home page offers you the top 5 books that I picked for you (PS: They are just 5 randomly chosen books)(numpy randomchoice is used to directly pick random lines from the txt file).And the search page offers you the whole collection of books.
 These pages have the top navigation bar and installation of the scrollbar as two of the top features.
 The clickable buttons direct you to the personalised play page (which is the part of the play.py file).
 
@@ -86,7 +84,7 @@ Now onto the scroll bar, tkinter does not really give an option to scroll throug
 
 
 Profile Page:-
-The profile page offers the user with their information and gives them an option to change a few information if they wish to do so.The information is updated (if valid) on clicking the submit button. And yes, we provide the self destroying messages here as well for any invalid information entered.
+The profile page offers the user with their information and gives them an option to change a few information if they wish to do so.The information is updated (if valid) on clicking the submit button. And yes, I provide the self destroying messages here as well for any invalid information entered.
 
 Play page:-
 This page offers the personalized description of the book button clicked upon.It has two play buttons,pink and black on the right side of the page for female and male voices respectively. When clicked upon any of these play buttons, the pyttsx.py file is called which reads the text from the text file of the book (stories/). This page also have a personalised background image for each book(stories/images/), and details about the book(stories/description.txt) and a short summary for the user to get a headsup on whats to come(stories/summaries/).
@@ -95,7 +93,7 @@ This page offers the personalized description of the book button clicked upon.It
 
 
 pyttsx.py:-
-The code in this file is what runs the show. Here, we use the pyttsx3 library of python to convert our text to speech. This code reads the text from the appropriate file and converts it into an audio file which is saved as audio.mp3 file which on completion of task is deleted (The mp3 file is deleted to preserve the text-to-speech feature of this project). 
+The code in this file is what runs the show. Here, I use the pyttsx3 library of python to convert our text to speech. This code reads the text from the appropriate file and converts it into an audio file which is saved as audio.mp3 file which on completion of task is deleted (The mp3 file is deleted to preserve the text-to-speech feature of this project). 
 
 ERRORS YOU MIGHT ENCOUNTER:-
 1.The audio file might not play when clicked upon:-
