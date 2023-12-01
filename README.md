@@ -60,6 +60,9 @@ Login page:-
 The login page requires you to enter a username and password to log in, which uses the tkinter labels, buttons, message and entry tags in its integration.
 It will display a self destroying message on the top incase you enter incorrect credentials.
 
+![image](https://github.com/JaynilVaidya/Hear-here-Audiobooks/assets/88105195/277b25ac-8322-4c56-9848-1b555dbb0e0f)
+
+
 Signup page:-
 The signup page requires the new user a number of details to sign them in which are stored in the creds.txt text file. Even here a self destroying message will be displayed on the bottom-right of the screen in case you enter invalid or unexpected data (Even if you do not enter any data, i mean common, those fields are mandatory).
 
@@ -76,11 +79,20 @@ The top navigation bar isn a static navbar which sticks to the top of the screen
 
 Now onto the scroll bar, tkinter does not really give an option to scroll through a whole frame so inorder to do that i have installed a canvas onto which the scrollbar and a few other child frames are placed to scroll through them.  
 
+![image](https://github.com/JaynilVaidya/Hear-here-Audiobooks/assets/88105195/361ac93b-ee70-44ba-bc60-498f6d41b9fc)
+
+![image](https://github.com/JaynilVaidya/Hear-here-Audiobooks/assets/88105195/4c6262ee-c425-4d16-aea6-a7ab84f0e5db)
+
+
+
 Profile Page:-
 The profile page offers the user with their information and gives them an option to change a few information if they wish to do so.The information is updated (if valid) on clicking the submit button. And yes, we provide the self destroying messages here as well for any invalid information entered.
 
 Play page:-
 This page offers the personalized description of the book button clicked upon.It has two play buttons,pink and black on the right side of the page for female and male voices respectively. When clicked upon any of these play buttons, the pyttsx.py file is called which reads the text from the text file of the book (stories/). This page also have a personalised background image for each book(stories/images/), and details about the book(stories/description.txt) and a short summary for the user to get a headsup on whats to come(stories/summaries/).
+
+![image](https://github.com/JaynilVaidya/Hear-here-Audiobooks/assets/88105195/62d2ba76-53ef-40e2-9a48-d6bc803d865a)
+
 
 pyttsx.py:-
 The code in this file is what runs the show. Here, we use the pyttsx3 library of python to convert our text to speech. This code reads the text from the appropriate file and converts it into an audio file which is saved as audio.mp3 file which on completion of task is deleted (The mp3 file is deleted to preserve the text-to-speech feature of this project). 
